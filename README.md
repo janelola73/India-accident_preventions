@@ -7,9 +7,9 @@ This project examines 3,000 reported accident cases across India to identify pat
 
 Total Records: 3,000 reported accident cases formed the basis of this analysis, offering a comprehensive view of accident trends.
 
-Average Severity: With an average severity of 1.98, many incidents fall into moderate intensity, though a significant share remains highly damaging.
+Average Severity: With an average severity of 1.984, many incidents fall into moderate intensity, though a significant share remains highly damaging.
 
-Total Fatalities: 246 fatalities were recorded, emphasizing the serious human cost of road accidents.
+Total Fatalities: 246% fatalities were recorded, emphasizing the serious human cost of road accidents.
 
 High Severity Percentage: 33% of accidents fall into the high-severity category, meaning one in every three cases results in substantial damage or loss of life.
 
